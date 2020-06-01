@@ -25,3 +25,4 @@ def configure_alembic(cfg):
 
 
 from app import models
+from app import routes
